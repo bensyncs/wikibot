@@ -1,0 +1,2 @@
+# wikibot
+The wiki bot
